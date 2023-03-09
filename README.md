@@ -15,6 +15,8 @@ Based on the creditworthiness assessment, the borrower is analyzed into a risk c
  Credit risk analysis is a critical process for lenders to manage their risk and ensure that they are making appropriate lending decisions to generate revenue.
  
  # Machine Learning
+ ![image](https://user-images.githubusercontent.com/112978144/224141331-5089b484-ea1c-4bcb-919b-4617b87aab5e.png)
+
  Machine learning is artificial intelligence that involves the use of algorithms and statistical models to enable computer systems to learn from data, without being explicitly programmed.
 
 Machine learning is used in many applications, such as image recognition, speech recognition, natural language processing, recommendation systems, fraud detection, and many others. It relies on large amounts of data to train models, and uses statistical methods to generalize patterns and insights from the data. Machine learning can be divided into three main categories: supervised learning, unsupervised learning, and reinforcement learning.
@@ -79,10 +81,11 @@ This involves training a model on a labeled dataset, where the model learns to m
 Unsupervised learning training a model on an unlabeled dataset, where model learns to identify patterns in the input data without predefined outputs.
 ![image](https://user-images.githubusercontent.com/112978144/224139673-edf2c2b6-d8fb-4a28-91e5-57e212df4766.png)
 
-Reinforcement learning
+# Reinforcement learning
 Reinforcement learning training a model to make decisions based on feedback received from a system, where the model learns to maximize a cumulative reward signal over time.
 ![image](https://user-images.githubusercontent.com/112978144/224140213-39b4b66a-e918-43bb-9974-523179a4750e.png)
 
+# Applications Of Machine Learning
 Some common applications of machine learning include image and speech recognition, natural language processing, recommendation systems, fraud detection, and predictive modeling. Machine learning has become increasingly important in many industries, including healthcare, finance, manufacturing, and transportation.
 ![image](https://user-images.githubusercontent.com/112978144/224140567-77cf61f1-0633-466e-8284-1738d8632a8a.png)
 
