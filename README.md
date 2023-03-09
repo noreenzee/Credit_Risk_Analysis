@@ -89,3 +89,5 @@ Reinforcement learning training a model to make decisions based on feedback rece
 Some common applications of machine learning include image and speech recognition, natural language processing, recommendation systems, fraud detection, and predictive modeling. Machine learning has become increasingly important in many industries, including healthcare, finance, manufacturing, and transportation.
 ![image](https://user-images.githubusercontent.com/112978144/224140567-77cf61f1-0633-466e-8284-1738d8632a8a.png)
 
+* Based on I'll recommand that Easy Ensemble Classifier Model should be used to determine the credit risks as it's accuracy score is most accurate that is about 93%. 
+
